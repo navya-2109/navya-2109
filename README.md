@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **navyasri2109@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X65sDd4vf_-Zq3scT35ZjAfEmsTp90zC/view?usp=sharing](https://drive.google.com/file/d/1X65sDd4vf_-Zq3scT35ZjAfEmsTp90zC/view?usp=sharing)
+- 📄 Know about my experiences <a href= "https://drive.google.com/file/d/1X65sDd4vf_-Zq3scT35ZjAfEmsTp90zC/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **I code**
 
